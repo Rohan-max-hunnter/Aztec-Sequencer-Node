@@ -1,21 +1,27 @@
 # Aztec-Sequencer-Node
 <div align="center">
 
-# 👨🏻‍💻 **Aztec Sequencer Guide** 👨🏻‍💻
+#  **Aztec Sequencer Guide** 
 
 </div>
 
 # 🖥️ Device/System Requirements 
 
-![image](https://github.com/user-attachments/assets/9e7e78a8-ddeb-4e0b-90a8-46f2ab5886b3)
+![image](https://github.com/user-attachments/assets/d71fa21d-1586-4bea-8a2e-4abe20390b0c)
 
 
 
-# Pre-Requirements 🛠
+
+# Pre-Requirements 
 
 - Docker & Docker Compose
 
-   🔺(Let run your docker in background if u are using local Device)
+   🔺(You need  run your docker engine in background if u are using local Device)
+
+   Like this
+  
+![image](https://github.com/user-attachments/assets/0b5d7a94-24f0-4047-b5d2-2ecaac50284d)
+
 
 - Aztec Tool
 
@@ -143,7 +149,7 @@ sudo ufw allow 8080
 screen -S aztec
 ```
 
-  🔺🔺--- Execute below given command to Start Your node & Dont forget to make changes in it-
+--- Execute below given command to Start Your node & Dont forget to make changes in it-
 
 ```
 aztec start --node --archiver --sequencer \
@@ -320,7 +326,7 @@ aztec add-l1-validator \
 
 
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
+👉 Join TG for more Updates: https://t.me/realdrophunter
 
 If U have any issue then open a issue on this repo or Dm me on TG~
 
